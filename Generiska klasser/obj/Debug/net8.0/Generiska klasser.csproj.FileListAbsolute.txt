@@ -1,0 +1,15 @@
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\bin\Debug\net8.0\Generiska klasser.exe
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\bin\Debug\net8.0\Generiska klasser.deps.json
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\bin\Debug\net8.0\Generiska klasser.runtimeconfig.json
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\bin\Debug\net8.0\Generiska klasser.dll
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\bin\Debug\net8.0\Generiska klasser.pdb
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\obj\Debug\net8.0\Generiska klasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\obj\Debug\net8.0\Generiska klasser.AssemblyInfoInputs.cache
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\obj\Debug\net8.0\Generiska klasser.AssemblyInfo.cs
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\obj\Debug\net8.0\Generiska klasser.csproj.CoreCompileInputs.cache
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\obj\Debug\net8.0\Generiska klasser.sourcelink.json
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\obj\Debug\net8.0\Generiska klasser.dll
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\obj\Debug\net8.0\refint\Generiska klasser.dll
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\obj\Debug\net8.0\Generiska klasser.pdb
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\obj\Debug\net8.0\Generiska klasser.genruntimeconfig.cache
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Generiska klasser\Generiska klasser\obj\Debug\net8.0\ref\Generiska klasser.dll
